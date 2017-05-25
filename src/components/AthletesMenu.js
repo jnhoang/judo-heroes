@@ -20,4 +20,4 @@ class AthletesMenu extends Component {
   }
 }
 
-export default AtheletesMenu;
+export default AthletesMenu;

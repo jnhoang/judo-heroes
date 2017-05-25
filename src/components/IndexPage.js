@@ -1,5 +1,5 @@
 import React from 'react';
-import Athlete from './AtheletePreview';
+import Athlete from './AthletePreview';
 import athletes from '../data/athletes';
 
 class IndexPage extends Component {
